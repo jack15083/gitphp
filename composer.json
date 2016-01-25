@@ -1,0 +1,19 @@
+{
+	"name": "jack15083/git-php",
+	"type": "library",
+	"description": "Library for work with Git repository in PHP.",
+	"keywords": ["git"],
+	"license": "GNU GENERAL PUBLIC LICENSE",
+	"authors": [
+		{
+			"name": "Jack zeng",
+			"email": "jack!5083@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
